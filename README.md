@@ -1,3 +1,5 @@
+<img width="100" height="100" alt="icon" src="https://github.com/user-attachments/assets/a765b8af-c66d-4f10-9f13-a26eff8a26e6" />
+
 # FavEditor
 FavEditor，替换Safari主页丑陋的书签图标。基于Favman项目二次开发。
 
